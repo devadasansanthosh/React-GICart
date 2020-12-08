@@ -1,9 +1,13 @@
 {
   "name": "gicart",
-  "version": "1.0.0",
   "type": "module",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/devadasansanthosh/React-GICart/issues"
   },
-  "homepage": "https://github.com/devadasansanthosh/React-GICart#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/devadasansanthosh/React-GICart#readme"
 }
